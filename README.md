@@ -1,5 +1,5 @@
 # Food_Delivery_application
-It is a food delivery application\n
+It is a food delivery application
 Firstly in the main method the user is asked to eneter a choice(a number out of 1,2,3) according to his/her needs
 CASE 1
 is for registering a restaurant
